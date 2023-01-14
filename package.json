@@ -4,6 +4,8 @@
   "description": "a test challenge to try out new stuff",
   "main": "index.js",
   "scripts": {
+    "dev": "webpack-dev-server .",
+    "build": "webpack .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
